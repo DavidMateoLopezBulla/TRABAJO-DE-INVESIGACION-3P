@@ -31,12 +31,12 @@
 ![4](https://user-images.githubusercontent.com/76136049/112404154-d094b600-8cdd-11eb-8bde-3087b650bb71.png)
 
 ## DIAGRAMAS
-![1](https://user-images.githubusercontent.com/76136049/112420867-f92ba880-8cfb-11eb-9089-e801a3f275ac.PNG)
-![2](https://user-images.githubusercontent.com/76136049/112420870-f9c43f00-8cfb-11eb-8b6e-db95b8121774.PNG)
-![3](https://user-images.githubusercontent.com/76136049/112420872-f9c43f00-8cfb-11eb-8b6c-48fcad599aa0.PNG)
-![4](https://user-images.githubusercontent.com/76136049/112420873-fa5cd580-8cfb-11eb-8092-201db3825674.PNG)
-![5](https://user-images.githubusercontent.com/76136049/112420874-fa5cd580-8cfb-11eb-90f8-21680e32c22a.PNG)
-![6](https://user-images.githubusercontent.com/76136049/112420875-fa5cd580-8cfb-11eb-9621-2d0da60727fb.PNG)
+1. ![1](https://user-images.githubusercontent.com/76136049/112420867-f92ba880-8cfb-11eb-9089-e801a3f275ac.PNG)
+2. ![2](https://user-images.githubusercontent.com/76136049/112420870-f9c43f00-8cfb-11eb-8b6e-db95b8121774.PNG)
+3. ![3](https://user-images.githubusercontent.com/76136049/112420872-f9c43f00-8cfb-11eb-8b6c-48fcad599aa0.PNG)
+4. ![4](https://user-images.githubusercontent.com/76136049/112420873-fa5cd580-8cfb-11eb-8092-201db3825674.PNG)
+5. ![5](https://user-images.githubusercontent.com/76136049/112420874-fa5cd580-8cfb-11eb-90f8-21680e32c22a.PNG)
+6. ![6](https://user-images.githubusercontent.com/76136049/112420875-fa5cd580-8cfb-11eb-9621-2d0da60727fb.PNG)
 
 
 ### Conclusiones
