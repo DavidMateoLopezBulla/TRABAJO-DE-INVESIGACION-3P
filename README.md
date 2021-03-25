@@ -7,3 +7,5 @@
 ![4](https://user-images.githubusercontent.com/76136049/112404154-d094b600-8cdd-11eb-8bde-3087b650bb71.png)
 
 ## BIBLIOGRAFIA
+Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+Mutual Inductance. (s. f.). MUTUAL INDUCTANCE. Recuperado 24 de marzo de 2021, de http://hyperphysics.phy-astr.gsu.edu/hbasees/magnetic/indmut.html#:%7E:text=Se%20llama%20inductancia%20mutua%20al,acoplada%20(ley%20de%20Lenz%20).
