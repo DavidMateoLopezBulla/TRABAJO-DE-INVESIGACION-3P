@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include <math.h>
+//calculo de la corriente maxima de la carga
+
+int main()
+{
+	float pn,vsec,cm;
+	printf("\n              Calculo de la corriente maxima");
+	printf("\n----------------------------------------------------------------");
+	printf("\n Ingrese la potencia nominal de cierto transformador  :  ");
+	scanf("%f", &pn);
+	printf("\n El voltaje secundario es de :  ");
+	scanf("%f", &vsec);
+	//calculo de la eficiencia
+	cm=pn/vsec;
+    printf("\n La corriente maxima en la carga es de %f A  ", cm);
+
+	 return 0;
+
+}
