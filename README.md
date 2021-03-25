@@ -47,7 +47,7 @@
 
 ### **Anexos**
 
-[Link Video](https://youtu.be/nOkSgx55jtY)
+[Link Video](https://www.youtube.com/watch?v=myy1cshP_EM)
 
 ## BIBLIOGRAFIA
 Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
